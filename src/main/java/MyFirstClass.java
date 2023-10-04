@@ -3,6 +3,6 @@ public class MyFirstClass {
         System.out.println("hello class"
                 );
         
-system.out.println("Adding by liza");
+System.out.println("Adding by liza");
     }
 }
